@@ -9,3 +9,21 @@ With well-defined requirements, development teams can plan timelines, assign res
 
 ✅ Basis for Testing and Validation
 Requirements serve as the foundation for creating acceptance criteria and test cases. This makes it easier to validate whether the final system meets user needs, improves software quality, and boosts user satisfaction.
+
+# 🛠️ Key Activities in Requirement Analysis
+Requirement Analysis involves several structured activities that help ensure the software meets user expectations and business goals. Below are the five key activities:
+
+📥 Requirement Gathering
+- Collecting high-level needs and expectations from stakeholders through interviews, surveys, observations, or reviewing existing systems.
+
+🗣️ Requirement Elicitation
+- Engaging stakeholders using techniques like brainstorming, workshops, use case development, and prototyping to refine and uncover deeper or hidden requirements.
+
+📝 Requirement Documentation
+- Clearly writing down the gathered requirements in structured formats such as Software Requirement Specifications (SRS), user stories, or use case diagrams for shared understanding.
+
+🧩 Requirement Analysis and Modeling
+- Analyzing requirements for feasibility, consistency, and completeness. Visual models (e.g., use case diagrams, data flow diagrams) are used to represent system behavior and interactions.
+
+✅ Requirement Validation
+- Reviewing documented requirements with stakeholders to confirm accuracy, resolve ambiguities, and ensure alignment with business needs before development begins.
