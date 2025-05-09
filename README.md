@@ -28,4 +28,35 @@ Requirement Analysis involves several structured activities that help ensure the
 ✅ Requirement Validation
 - Reviewing documented requirements with stakeholders to confirm accuracy, resolve ambiguities, and ensure alignment with business needs before development begins.
 
-## Sub-section
+## 🧾 Types of Requirements
+In any software project, understanding and categorizing requirements correctly ensures the system delivers both expected functionality and performance. Below are the two main types of requirements for the Booking Management System.
+
+✅ Functional Requirements
+- These define what the system should do. They describe the system’s behaviors, features, and interactions from a user’s perspective.
+
+Examples for the Booking Management System:
+
+- Users can search available properties based on location, price, and dates.
+
+- The system allows user registration and login with email and password.
+
+- Users can create, edit, and cancel bookings.
+
+- Property owners can list and manage their properties.
+
+- The system sends confirmation emails after successful bookings.
+
+⚙️ Non-functional Requirements
+These define how the system should perform. They include quality attributes such as performance, security, and scalability.
+
+Examples for the Booking Management System:
+
+- The system should load any page in under 2 seconds.
+
+- It must be available 24/7 with 99.9% uptime.
+
+- All user data must be encrypted in transit and at rest.
+
+- The platform should support up to 10,000 concurrent users.
+
+- It should be accessible on mobile and desktop devices with a responsive design.
