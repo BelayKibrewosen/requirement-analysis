@@ -78,4 +78,35 @@ Serve as a foundation for writing user stories or test cases.
 Use Case Diagrams visually show how users interact with the system. They help teams understand scope, system behavior, and responsibilities early in the development cycle.
 ![alx-booking-uc png](https://github.com/user-attachments/assets/3cb632a8-8996-46a2-b4ab-8896447daf22)
 
+## ✅ Acceptance Criteria
+Acceptance Criteria define the specific conditions a product or feature must meet to be considered complete and acceptable by stakeholders. They serve as a bridge between user requirements and development, ensuring clarity and alignment between all parties.
+
+🚀 Why Acceptance Criteria Matter:
+Clarity: Provides a shared understanding of what “done” means for a feature.
+
+Testability: Forms the basis for test cases and user acceptance testing.
+
+Scope Control: Prevents scope creep by defining exactly what needs to be delivered.
+
+Quality Assurance: Ensures the feature aligns with business goals and user expectations.
+
+💡 Example: Checkout Feature in Booking Management System
+Feature: Checkout Process for Booking a Property
+
+Acceptance Criteria:
+
+✅ User must be logged in to initiate the checkout.
+
+✅ Booking summary (property name, dates, price) is displayed before confirmation.
+
+✅ User can select a payment method (credit card, PayPal, etc.).
+
+✅ Payment is processed securely and returns a success or failure response.
+
+✅ On success, the user receives a confirmation message and booking reference.
+
+✅ A confirmation email is automatically sent to the user.
+
+✅ The booked dates are marked as unavailable for future searches.
+
 
