@@ -60,3 +60,21 @@ Examples for the Booking Management System:
 - The platform should support up to 10,000 concurrent users.
 
 - It should be accessible on mobile and desktop devices with a responsive design.
+
+🧩 Use Case Diagrams
+Use Case Diagrams are a visual representation of a system’s functional requirements. They illustrate how different users (called actors) interact with the system through various use cases (functionalities). These diagrams help stakeholders understand system behavior at a high level, making them useful for both communication and planning during the Requirement Analysis phase.
+
+🎯 Benefits of Use Case Diagrams
+Clarify system scope and interactions.
+
+Identify all possible user interactions early in development.
+
+Improve communication between developers, designers, and non-technical stakeholders.
+
+Serve as a foundation for writing user stories or test cases.
+
+## 🧩 Use Case Diagrams
+
+Use Case Diagrams visually show how users interact with the system. They help teams understand scope, system behavior, and responsibilities early in the development cycle.
+![alx-booking-uc](https://github.com/user-attachments/assets/14478346-a164-4608-9eab-098ac0ccb5d5)
+
