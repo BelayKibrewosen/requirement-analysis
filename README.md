@@ -76,5 +76,6 @@ Serve as a foundation for writing user stories or test cases.
 ## 🧩 Use Case Diagrams
 
 Use Case Diagrams visually show how users interact with the system. They help teams understand scope, system behavior, and responsibilities early in the development cycle.
-![Booking Management System Use Case]("C:\Users\Administrator\Downloads\alx-booking-uc.png")
+
+![alx-booking-uc](https://github.com/user-attachments/assets/0bbccde4-9c8b-4e20-9017-affd3c0feac4)
 
