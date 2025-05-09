@@ -32,7 +32,7 @@ Requirement Analysis involves several structured activities that help ensure the
 In any software project, understanding and categorizing requirements correctly ensures the system delivers both expected functionality and performance. Below are the two main types of requirements for the Booking Management System.
 
 ✅ Functional Requirements
-- These define what the system should do. They describe the system’s behaviors, features, and interactions from a user’s perspective.
+These define what the system should do. They describe the system’s behaviors, features, and interactions from a user’s perspective.
 
 Examples for the Booking Management System:
 
