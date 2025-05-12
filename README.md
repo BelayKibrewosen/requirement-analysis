@@ -1,4 +1,4 @@
-# Why is Requirement Analysis Important?
+# What is Requirement Analysis?
 Requirement Analysis is a foundational step in the Software Development Life Cycle (SDLC). It ensures that the final product aligns with stakeholder expectations and project goals. Below are three key reasons why it's critical:
 
 🔍 Clear Understanding of Project Scope
